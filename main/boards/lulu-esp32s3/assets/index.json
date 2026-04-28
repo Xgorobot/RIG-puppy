@@ -1,0 +1,25 @@
+{
+    "version": 1,
+    "emoji_collection": [
+        {"name": "neutral", "file": "normal.gif"},
+        {"name": "angry", "file": "angry.gif"},
+        {"name": "confident", "file": "confident.gif"},
+        {"name": "confused", "file": "confused.gif"},
+        {"name": "cool", "file": "cool.gif"},
+        {"name": "crying", "file": "crying.gif"},
+        {"name": "delicious", "file": "delicious.gif"},
+        {"name": "embarrassed", "file": "embarrassed.gif"},
+        {"name": "happy", "file": "happy.gif"},
+        {"name": "kiss", "file": "kiss.gif"},
+        {"name": "laughing", "file": "laughing.gif"},
+        {"name": "loving", "file": "loving.gif"},
+        {"name": "relaxed", "file": "relaxed.gif"},
+        {"name": "sad", "file": "sad.gif"},
+        {"name": "shocked", "file": "shocked.gif"},
+        {"name": "silly", "file": "silly.gif"},
+        {"name": "sleepy", "file": "sleepy.gif"},
+        {"name": "surprised", "file": "surprised.gif"},
+        {"name": "thinking", "file": "thinking.gif"},
+        {"name": "winking", "file": "winking.gif"}
+    ]
+}

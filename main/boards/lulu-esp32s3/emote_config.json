@@ -1,0 +1,33 @@
+{
+    "text_font": "font_puhui_basic_16_4.bin",
+    "emoji_collection": [
+        {"name": "neutral", "file": "neutral.eaf", "eaf": {"fps": 20, "loop": true, "lack": false}},
+        {"name": "happy", "file": "happy.eaf", "eaf": {"fps": 20, "loop": true, "lack": false}},
+        {"name": "sad", "file": "sad.eaf", "eaf": {"fps": 20, "loop": true, "lack": false}},
+        {"name": "angry", "file": "angry.eaf", "eaf": {"fps": 20, "loop": true, "lack": false}},
+        {"name": "surprised", "file": "surprised.eaf", "eaf": {"fps": 20, "loop": false, "lack": false}},
+        {"name": "confused", "file": "confused.eaf", "eaf": {"fps": 20, "loop": true, "lack": false}},
+        {"name": "thinking", "file": "thinking.eaf", "eaf": {"fps": 20, "loop": true, "lack": false}},
+        {"name": "winking", "file": "winking.eaf", "eaf": {"fps": 20, "loop": false, "lack": false}},
+        {"name": "cool", "file": "cool.eaf", "eaf": {"fps": 20, "loop": true, "lack": false}},
+        {"name": "crying", "file": "crying.eaf", "eaf": {"fps": 20, "loop": true, "lack": false}},
+        {"name": "laughing", "file": "laughing.eaf", "eaf": {"fps": 20, "loop": true, "lack": false}},
+        {"name": "loving", "file": "loving.eaf", "eaf": {"fps": 20, "loop": true, "lack": false}},
+        {"name": "embarrassed", "file": "embarrassed.eaf", "eaf": {"fps": 20, "loop": true, "lack": false}},
+        {"name": "sleepy", "file": "sleepy.eaf", "eaf": {"fps": 20, "loop": true, "lack": false}},
+        {"name": "shocked", "file": "shocked.eaf", "eaf": {"fps": 20, "loop": false, "lack": false}},
+        {"name": "silly", "file": "silly.eaf", "eaf": {"fps": 20, "loop": true, "lack": false}},
+        {"name": "relaxed", "file": "relaxed.eaf", "eaf": {"fps": 20, "loop": true, "lack": false}},
+        {"name": "confident", "file": "confident.eaf", "eaf": {"fps": 20, "loop": true, "lack": false}},
+        {"name": "delicious", "file": "delicious.eaf", "eaf": {"fps": 20, "loop": true, "lack": false}},
+        {"name": "kiss", "file": "kiss.eaf", "eaf": {"fps": 20, "loop": false, "lack": false}}
+    ],
+    "icon_collection": [
+        {"name": "icon_mic", "file": "icon_mic.eaf"},
+        {"name": "icon_Battery", "file": "icon_battery.eaf"},
+        {"name": "icon_speaker_zzz", "file": "icon_speaker_zzz.eaf"},
+        {"name": "icon_WiFi_failed", "file": "icon_wifi_failed.eaf"},
+        {"name": "icon_wifi", "file": "icon_wifi.eaf"},
+        {"name": "listen", "file": "listen.eaf"}
+    ]
+}
